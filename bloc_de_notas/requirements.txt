@@ -1,0 +1,5 @@
+# Tkinter viene incluido con Python — sin dependencias externas.
+# Para empaquetar como ejecutable .exe:
+#
+#   pip install pyinstaller
+#   pyinstaller --onefile --windowed main.py
