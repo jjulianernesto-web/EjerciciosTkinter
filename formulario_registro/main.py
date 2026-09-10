@@ -161,8 +161,16 @@ class FormularioRegistro(tk.Tk):
             fieldbackground=[("readonly", C["entry"])],
             foreground=[("readonly", C["text"])],
         )
+
+        # ── Scrollbar vertical oscuro ─────────────────────
+        # 1. Copiar el layout vertical estándar al estilo personalizado
+        style.layout(
+            "Vertical.Dark.TScrollbar",
+            style.layout("Vertical.TScrollbar")
+        )
+        # 2. Configurar colores sobre la variante vertical
         style.configure(
-            "Dark.TScrollbar",
+            "Vertical.Dark.TScrollbar",
             background=C["card"],
             troughcolor=C["surface"],
             bordercolor=C["border"],
