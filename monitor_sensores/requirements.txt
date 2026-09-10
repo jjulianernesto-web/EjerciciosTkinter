@@ -1,0 +1,7 @@
+# Sin dependencias externas.
+# Usa solo la libreria estandar de Python:
+#   tkinter, math, random, datetime
+#
+# Para empaquetar como ejecutable .exe:
+#   pip install pyinstaller
+#   pyinstaller --onefile --windowed main.py

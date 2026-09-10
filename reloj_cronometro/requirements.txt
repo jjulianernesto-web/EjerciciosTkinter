@@ -1,0 +1,6 @@
+# Sin dependencias externas — usa solo la libreria estandar de Python.
+# Tkinter, datetime y time vienen incluidos con Python.
+#
+# Para empaquetar como ejecutable .exe:
+#   pip install pyinstaller
+#   pyinstaller --onefile --windowed main.py

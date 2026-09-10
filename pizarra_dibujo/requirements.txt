@@ -1,0 +1,8 @@
+# Sin dependencias externas — Tkinter viene incluido con Python.
+#
+# Opcional: instala Pillow para guardar como PNG
+#   pip install Pillow
+#
+# Para empaquetar como ejecutable .exe:
+#   pip install pyinstaller
+#   pyinstaller --onefile --windowed main.py
