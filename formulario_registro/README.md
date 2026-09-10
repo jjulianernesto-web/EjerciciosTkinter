@@ -37,7 +37,7 @@ Aplicación de escritorio con **Python + Tkinter** que demuestra el uso de múlt
 ## 🚀 Ejecución
 
 ```bash
-git clone https://github.com/tu-usuario/formulario_registro.git
+git clone https://github.com/jjulianernesto-web/formulario_registro.git
 cd formulario_registro
 python main.py
 ```
