@@ -82,7 +82,7 @@ def actualizar_reloj(self):
 ## 🚀 Ejecución
 
 ```bash
-git clone https://github.com/tu-usuario/reloj_cronometro.git
+git clone https://github.com/jjulianernesto-web/reloj_cronometro.git
 cd reloj_cronometro
 python main.py
 ```
@@ -106,7 +106,3 @@ reloj_cronometro/
 ## 📝 Licencia
 
 MIT — libre de usar y modificar.
-
-## 👤 Autor
-
-**Tu Nombre** — GitHub: [@tu-usuario](https://github.com/tu-usuario)
