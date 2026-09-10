@@ -94,7 +94,7 @@ canvas.create_line(x0, y0, x1, y1, fill="green", width=3)
 ## 🚀 Ejecución
 
 ```bash
-git clone https://github.com/tu-usuario/pizarra_dibujo.git
+git clone https://github.com/jjulianernesto-web/pizarra_dibujo.git
 cd pizarra_dibujo
 python main.py
 ```
@@ -120,7 +120,3 @@ pizarra_dibujo/
 ## 📝 Licencia
 
 MIT — libre de usar y modificar.
-
-## 👤 Autor
-
-**Tu Nombre** — GitHub: [@tu-usuario](https://github.com/tu-usuario)
