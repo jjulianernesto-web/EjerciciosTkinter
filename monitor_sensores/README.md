@@ -82,7 +82,7 @@ def _on_scale(self, valor_str):
 ## 🚀 Ejecución
 
 ```bash
-git clone https://github.com/tu-usuario/monitor_sensores.git
+git clone https://github.com/jjulianernesto-web/monitor_sensores.git
 cd monitor_sensores
 python main.py
 ```
@@ -104,7 +104,3 @@ monitor_sensores/
 ## 📝 Licencia
 
 MIT — libre de usar y modificar.
-
-## 👤 Autor
-
-**Tu Nombre** — GitHub: [@tu-usuario](https://github.com/tu-usuario)
