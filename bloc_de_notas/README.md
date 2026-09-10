@@ -58,7 +58,7 @@ Bloc de notas de escritorio desarrollado con **Python + Tkinter** que demuestra 
 ## 🚀 Ejecución
 
 ```bash
-git clone https://github.com/tu-usuario/bloc_de_notas.git
+git clone https://github.com/jjulianernesto-web/bloc_de_notas.git
 cd bloc_de_notas
 python main.py
 ```
@@ -105,7 +105,3 @@ bloc_de_notas/
 ## 📝 Licencia
 
 MIT — libre de usar y modificar.
-
-## 👤 Autor
-
-**Tu Nombre** — GitHub: [@tu-usuario](https://github.com/tu-usuario)
