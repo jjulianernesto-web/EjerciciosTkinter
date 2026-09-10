@@ -41,7 +41,7 @@ Incluye **8 categorías** de conversión con diseño oscuro moderno y conversió
 ### Clonar y ejecutar
 
 ```bash
-git clone https://github.com/tu-usuario/conversor_unidades.git
+git clone https://github.com/jjulianernesto-web/conversor_unidades.git
 cd conversor_unidades
 python main.py
 ```
@@ -108,10 +108,3 @@ pyinstaller --onefile --windowed main.py
 ## 📝 Licencia
 
 MIT License — libre de usar, modificar y distribuir.
-
----
-
-## 👤 Autor
-
-**Tu Nombre**  
-GitHub: [@tu-usuario](https://github.com/tu-usuario)
